@@ -132,11 +132,11 @@ Material:
     - _ZWrite: 1
     - _invertX: 0
     - blendVolumeLighting: 2
-    - lightCount: 3
+    - lightCount: 2
     - lightsArrayLength: 0
     m_Colors:
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _BlurRadius4: {r: 0.11125, g: 0.11125, b: 0, a: 0}
+    - _BlurRadius4: {r: 0.114375, g: 0.114375, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ExtinctColor: {r: 0.23362406, g: 0.34249693, b: 0.3962264, a: 1}
@@ -144,11 +144,11 @@ Material:
     - _ScatterColor: {r: 0.369571, g: 0.46975714, b: 0.5188679, a: 1}
     - _ScatteringTint: {r: 0.6981132, g: 0.6735695, b: 0.6553044, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SunColor: {r: 0.56150943, g: 0.36955348, b: 0.20394444, a: 0.64}
-    - _SunPosition: {r: 0.4034053, g: 1.140414, b: 69.97314, a: 1.57}
-    - _SunThreshold: {r: 0.103773594, g: 0.042621296, b: 0, a: 1}
+    - _SunColor: {r: 0.27290627, g: 0.29168394, b: 0.5212264, a: 0.65}
+    - _SunPosition: {r: 0.4041041, g: 1.0869377, b: 70.48303, a: 0.5}
+    - _SunThreshold: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 1}
     - _stepsControl: {r: 0, g: 0, b: 1, a: 1}
-    - lightControlA: {r: 8.63, g: 0.95, b: 1, a: 0}
+    - lightControlA: {r: 0.01, g: 0, b: 0, a: 0}
     - lightControlB: {r: 1, g: 1, b: 1, a: 1}
     - lightNoiseControl: {r: 0.6, g: -0.03, b: 1, a: 1}
   m_BuildTextureStacks: []
