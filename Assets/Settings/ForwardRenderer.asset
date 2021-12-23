@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9d225a4cad17704386835b918c7b8ec, type: 3}
   m_Name: NewBlitVolumeFogSRP
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   settings:
     isForReflections: 0
     blendVolumeLighting: 0
@@ -229,8 +229,7 @@ MonoBehaviour:
   - {fileID: -6462271525762890478}
   - {fileID: -8721772313899157539}
   - {fileID: 7894764919951649795}
-  - {fileID: 5258366795307509743}
-  m_RendererFeatureMap: 818f6228cd75b5f21205c830496651a6dd37345a4a0af68603eceeceddd68f6def670385bd78f948
+  m_RendererFeatureMap: 818f6228cd75b5f21205c830496651a6dd37345a4a0af68603eceeceddd68f6d
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
   shaders:
@@ -370,7 +369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f62c9c65cf3354c93be831c8bc075510, type: 3}
   m_Name: NewScreenSpaceAmbientOcclusion
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   m_Shader: {fileID: 4800000, guid: 0849e84e3d62649e8882e9d6f056a017, type: 3}
   m_Settings:
     Downsample: 1
